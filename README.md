@@ -21,11 +21,17 @@ Vite, Vue3, Pinia, Router, TypeScript, GraphQl, Tailwind
 
 ## Considerations
 
-- For products I am always fetching first 20 and using the firs variant to simplify the exercise.
+- For products I am always fetching first 20 and using the first variant to simplify the exercise.
 - Included types
 - Basic tailwind configuration
 - Responsive design
 - Didn't include icons this time to simplify the exercise.
+
+## Run the project
+
+cd dutch-shop
+npm install
+npm run dev
 
 ## Thanks
 
